@@ -1,6 +1,6 @@
 Project Summary:
 
-Client Name: Barbara
+Client Name: 
 Contact Information: 
 Room Dimensions: Length - 17.16 ft, Width - 11.0 ft, Total Area - 217.07399999999998 square feet
 Flooring Preferences: waterproof laminate
